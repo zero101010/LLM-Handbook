@@ -1,5 +1,5 @@
 .zen*
-zenml/pipelines/linkedin
+zenml/pipelines/linkedin/linkedin
 __pycache__/
 */.DS_Store
 .DS_Store
